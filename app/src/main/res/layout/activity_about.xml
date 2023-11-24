@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".About">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fontFamily="casual"
+        android:text="Hello
+I am Sahebrao dugane I did Msc in Computer Science
+Currently i am doing a javafullstack course at
+ seed Infotech in pune. Basically I tried to keep all the
+javafullstack notes  in one application.
+
+ In this application two languages are used
+For Frondend I used XML it stands for eXtensible Markup language like HTML.
+For Backend I used JAVA.
+
+Thank you for downloading  Application...
+-Sahebrao Dugane."
+        tools:ignore="MissingConstraints"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="68dp"
+        android:textStyle="bold"
+        android:textColor="@color/black"
+        android:layout_marginStart="10dp"
+        android:textSize="25sp"/>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
